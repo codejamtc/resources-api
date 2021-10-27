@@ -231,3 +231,5 @@ npm run test:newman:clear
 ## Verification
 
 Refer to the verification document `Verification.md`.
+
+## New
